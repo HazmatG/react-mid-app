@@ -1,4 +1,5 @@
 # react-mid-app
+Fully interactive and functional to-do app on React Js.
 
 ### `npm start`
 Run app in the development mode.
